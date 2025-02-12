@@ -1,5 +1,5 @@
 # swayam
 This project is done by
-Rohan Bopanna A G,
-Sagar K B,
-Shakthi M P
+NANDAKUMAR NAIK M,
+SACHIN K N,
+PREETHAM D K
